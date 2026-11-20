@@ -17,4 +17,4 @@ Toggle the enable pin to allow outputs to change.
 
 ## External hardware
 
-None(LEDs can be used to test).
+None, possibly LEDs.
