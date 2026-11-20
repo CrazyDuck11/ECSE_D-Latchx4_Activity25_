@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The enable pin controls whether the outputs respond to changes in their corresponding input, allowing values to be stored and changed when needed.
 
 ## How to test
 
-Explain how to use your project
+Toggle the enable pin to allow outputs to change. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None(LEDs can be used to test).
